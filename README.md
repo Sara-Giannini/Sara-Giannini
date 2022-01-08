@@ -28,8 +28,3 @@
   
   ##
   
-  <div>
-  
-  ![Snake animation](https://github.com/Sara-Giannini/Sara-Giannini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
