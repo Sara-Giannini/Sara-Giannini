@@ -1,6 +1,7 @@
 ## Olá!! Me chamo Sara 👋
 
 - 👀 Tenho interesse em Back-end.
+- 💜 Aluna de Back-end na {Reprograma}
 - 🌱 Atualmente estou aprendendo Python e Javascript.
 - 📚 Estudante de Arquitetura e Urbanismo migrando para Ciência da Computação.
 - 📫 Me contate por: saragiannini593@gmail.com
