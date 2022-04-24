@@ -3,7 +3,6 @@
 - 👀 Tenho interesse em Back-end.
 - 💜 Aluna de Back-end na {Reprograma}
 - 🌱 Atualmente estou aprendendo Python e Javascript.
-- 📚 Estudante de Arquitetura e Urbanismo (UFRJ) migrando para Ciência da Computação.
 - 📫 Me contate por: saragiannini593@gmail.com
 - 👩‍🦰 Pronomes: Ela/Dela.
 
