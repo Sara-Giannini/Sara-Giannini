@@ -1,12 +1,4 @@
-## Olá!! Me chamo Sara 👋
 
-- 👀 Tenho interesse em Back-end.
-- 💜 Aluna de Back-end na {Reprograma}
-- 🌱 Atualmente estou aprendendo Python e Javascript.
-- 📫 Me contate por: saragiannini593@gmail.com
-- 👩‍🦰 Pronomes: Ela/Dela.
-
-##
 
 <div align="center">
   <a href="https://github.com/Sara-Giannini">
